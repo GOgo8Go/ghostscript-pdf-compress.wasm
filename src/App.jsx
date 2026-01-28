@@ -62,15 +62,15 @@ function App() {
       <h1>Free Browser side PDF-Compressor</h1>
       <p>
         The best tool I know to compress PDF is{" "}
-        <a target={"_blank"} href={"https://ghostscript.com/"}>
+        <a target={"_blank"} href={" "}>
           Ghostscript
         </a>{" "}
         but this was not running in the browser. Until{" "}
-        <a target={"_blank"} href={"https://github.com/ochachacha/ps-wasm"}>
+        <a target={"_blank"} href={" "}>
           Ochachacha
         </a>{" "}
         ported the lib in{" "}
-        <a target={"_blank"} href={"https://webassembly.org/"}>
+        <a target={"_blank"} href={" "}>
           Webassembly
         </a>
         .
@@ -79,7 +79,7 @@ function App() {
         Based on his amazing work, I built this{" "}
         <a
           href={
-            "https://github.com/laurentmmeyer/ghostscript-pdf-compress.wasm"
+            " "
           }
           target={"_blank"}
         >
@@ -140,7 +140,7 @@ function App() {
         Everything is open-source and you can contribute{" "}
         <a
           href={
-            "https://github.com/laurentmmeyer/ghostscript-pdf-compress.wasm"
+            " "
           }
           target={"_blank"}
         >
@@ -153,7 +153,7 @@ function App() {
         <i>This website uses no tracking, no cookies, no adtech.</i>
       </p>
       <p>
-        <a target={"_blank"} href={"https://meyer-laurent.com"}>
+        <a target={"_blank"} href={" "}>
           About me
         </a>
       </p>
